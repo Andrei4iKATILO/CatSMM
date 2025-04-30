@@ -1,0 +1,109 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.wrapper{
+  
+    
+    width:1200px;
+    height: auto;
+    background-color: white;
+    top: 40px;
+    left: 40px;
+    border-radius: 40px;
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+    margin: 0 auto;
+}
+body {
+    background-color: aqua;
+}
+
+
+
+
+.button{
+    background-color: #7549EA;
+    color: white;
+    border-style: none;
+    width: 290px;
+    height: 50px;
+    border-radius: 16px;
+    font-weight: bold;
+    gap: 10px;
+}
+
+
+
+
+.button1{
+    background-color: white;
+    color: #7549EA;
+    border-color: #7549EA;
+    border-width: 1px;
+    width: 290px;
+    height: 49px;
+    border-radius: 16px;
+    font-weight: 700;
+    gap: 10px;
+}
+
+
+
+.border{
+    display: flex;
+    /* width: 290px;
+    height: 152px; */
+    gap: 8px;
+    row-gap: 10px;
+    flex-wrap: wrap;
+}
+
+
+
+.span{
+    background-color: #d1c1fd ;
+    color:#7549EA33;
+    border-radius: 6px;
+    border: none;
+    padding: 0 8px;
+    color: #7549EA;
+}
+
+
+.span2{
+    font-weight: 1000;
+}
+
+
+ol {
+    padding-left: 0;
+    padding-left: 20px;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.semiwrapper {
+    padding: 40px;
+    
+}
+aside {
+    background: #E0EBFEB2;
+    border-radius: 40px;
+}
+.aboiudno{
+    display: flex;
+    align-items: center;
+}
+.img{
+    width: 32px;
+    height: 32px;
+
+}
+    
